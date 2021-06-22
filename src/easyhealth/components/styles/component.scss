@@ -1,0 +1,22 @@
+//General Header
+
+.general_header{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+
+    li{
+        float: left;
+        margin: 0px 10px;
+    }
+}
